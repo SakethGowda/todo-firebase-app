@@ -1,3 +1,2 @@
-﻿
-# todo-react-native-app
-# todo-firebase-app
+npx expo start
+to run
