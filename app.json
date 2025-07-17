@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6ffb9c7c-dba4-483c-b749-234218dc9ab8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6ffb9c7c-dba4-483c-b749-234218dc9ab8"
+    },
+    "android": {
+      "package": "com.saketh321.todoreactnativesdk53"
+    },
+    "ios": {}
+  }
+}

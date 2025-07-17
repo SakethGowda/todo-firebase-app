@@ -1,0 +1,12 @@
+# React Native
+node_modules/
+ios/
+android/
+.expo/
+*.log
+*.lock
+.env
+build/
+git add .gitignore
+git commit -m "Fix .gitignore content"
+git push
